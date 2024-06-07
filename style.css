@@ -3,9 +3,11 @@ body{
 }
 .title{
     width: 60%;
+    height: 70%;
     text-align: right;
     font-family: 'Microsoft Yahei', sans-serif;
 }
 h1{
-    color: #ffffff;
+    color: white;
+    text-align: right;
 }
